@@ -10,9 +10,14 @@ This is my journal of the design and building process of **ESP32 Stuff**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/562).
 
 
-## 10/19/2025 - Recieved the kit and read physics  
+## 10/19/2025 12:10 AM - Recieved the kit and read physics  
 
 I just recieved my kit, and I spent around 25 minutes looking at every component and their manual. I read what jumper wires do! I opened my physics from last year for around 30 mins, and I read about circuits, volts, ambers, GND, resistors, and how to calculate stuff & make a correct circuit. After that I will have to actually make one!
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b5572c1fc63b14ee48f8eae1ccdaaa5ce4338c7/image.png)
+  
+
+## 10/19/2025 12:13 AM - Learned how a breadboard works and made my first circuit!  
+
+I read some online documentation about breadboards, and I finally understand why we use them. I show that the side lines (power lines) are connected vertically while the middle lines are connected horizontally. I also read about the LED (that the long side requires power while the other side goes to ground). I made the first circuit! Using the esp32 3v3 and GND I made a complete circuit. I also added a resistor![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--440045a4e24197cb808fc20be3c069d6ead54063/image.png)
   
 
