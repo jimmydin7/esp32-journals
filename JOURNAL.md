@@ -21,3 +21,10 @@ I just recieved my kit, and I spent around 25 minutes looking at every component
 I read some online documentation about breadboards, and I finally understand why we use them. I show that the side lines (power lines) are connected vertically while the middle lines are connected horizontally. I also read about the LED (that the long side requires power while the other side goes to ground). I made the first circuit! Using the esp32 3v3 and GND I made a complete circuit. I also added a resistor![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--440045a4e24197cb808fc20be3c069d6ead54063/image.png)
   
 
+## 10/19/2025 12:16 AM - Made a more simple circuit!  
+
+After understanding resistors and 3v3 + GND, I wanted to make a more complex circuit than just 1 LED. (I accidentally burned one because I didn't use a resistor). Here it is! I connected 5 LEDS! Basically I wired the ground and power on the side lines and then connected jumper cables vertically on the sides to pass the power / gnd on each led!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--30da7417dfbf8b3442a83597ab2dd68e1ff928bb/image.png)
+  
+
