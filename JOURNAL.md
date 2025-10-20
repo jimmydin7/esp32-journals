@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **ESP32 Stuff**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/562).
-
-
 ## 10/19/2025 12:10 AM - Recieved the kit and read physics  
 
 I just recieved my kit, and I spent around 25 minutes looking at every component and their manual. I read what jumper wires do! I opened my physics from last year for around 30 mins, and I read about circuits, volts, ambers, GND, resistors, and how to calculate stuff & make a correct circuit. After that I will have to actually make one!
